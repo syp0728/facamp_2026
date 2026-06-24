@@ -1,0 +1,73 @@
+team1,team2,team1_score,team2_score,team1_prob,team2_prob,type
+South Korea,Czechia,2,1,0.6468,0.3532,Group Stage
+Mexico,South Africa,2,0,0.9038,0.0962,Group Stage
+Canada,Bosnia-Herzegovina,2,0,0.8949,0.1051,Group Stage
+United States,Paraguay,2,1,0.5962,0.4038,Group Stage
+Qatar,Switzerland,0,2,0.1213,0.8787,Group Stage
+Brazil,Morocco,2,1,0.6251,0.3749,Group Stage
+Haiti,Scotland,1,2,0.3834,0.6166,Group Stage
+Australia,Turkey,1,2,0.4981,0.5019,Group Stage
+Germany,Curaçao,2,0,0.9151,0.0849,Group Stage
+Ivory Coast,Ecuador,0,1,0.2887,0.7113,Group Stage
+Netherlands,Japan,1,2,0.4895,0.5105,Group Stage
+Sweden,Tunisia,1,2,0.4634,0.5366,Group Stage
+Belgium,Egypt,1,0,0.7371,0.2629,Group Stage
+Iran,New Zealand,1,0,0.7242,0.2758,Group Stage
+Spain,Cape Verde Islands,3,0,0.9569,0.0431,Group Stage
+Saudi Arabia,Uruguay,0,1,0.2146,0.7854,Group Stage
+Argentina,Algeria,2,0,0.829,0.171,Group Stage
+Austria,Jordan,2,1,0.7041,0.2959,Group Stage
+France,Senegal,2,1,0.7651,0.2349,Group Stage
+Iraq,Norway,1,2,0.2975,0.7025,Group Stage
+Portugal,Congo DR,2,0,0.8427,0.1573,Group Stage
+Uzbekistan,Colombia,0,1,0.2271,0.7729,Group Stage
+England,Croatia,2,1,0.6838,0.3162,Group Stage
+Ghana,Panama,0,1,0.2533,0.7467,Group Stage
+Czechia,South Africa,1,0,0.6811,0.3189,Group Stage
+Mexico,South Korea,1,0,0.7293,0.2707,Group Stage
+Switzerland,Bosnia-Herzegovina,2,0,0.8406,0.1594,Group Stage
+Canada,Qatar,1,0,0.8997,0.1003,Group Stage
+Turkey,Paraguay,2,1,0.5734,0.4266,Group Stage
+United States,Australia,2,1,0.5557,0.4443,Group Stage
+Scotland,Morocco,0,1,0.3064,0.6936,Group Stage
+Brazil,Haiti,2,0,0.9067,0.0933,Group Stage
+Germany,Ivory Coast,2,1,0.7166,0.2834,Group Stage
+Ecuador,Curaçao,2,0,0.9219,0.0781,Group Stage
+Netherlands,Sweden,2,0,0.8254,0.1746,Group Stage
+Tunisia,Japan,0,1,0.1657,0.8343,Group Stage
+Belgium,Iran,2,1,0.6069,0.3931,Group Stage
+New Zealand,Egypt,1,2,0.3657,0.6343,Group Stage
+Spain,Saudi Arabia,2,0,0.928,0.072,Group Stage
+Uruguay,Cape Verde Islands,2,0,0.8563,0.1437,Group Stage
+Jordan,Algeria,1,2,0.3123,0.6877,Group Stage
+Argentina,Austria,2,0,0.8567,0.1433,Group Stage
+Norway,Senegal,2,1,0.559,0.441,Group Stage
+France,Iraq,2,0,0.8995,0.1005,Group Stage
+Portugal,Uzbekistan,1,0,0.8011,0.1989,Group Stage
+Colombia,Congo DR,2,0,0.8372,0.1628,Group Stage
+England,Ghana,2,0,0.9135,0.0865,Group Stage
+Panama,Croatia,1,2,0.3177,0.6823,Group Stage
+Scotland,Brazil,0,2,0.1603,0.8397,Group Stage
+Mexico,Czechia,2,0,0.8712,0.1288,Group Stage
+South Africa,South Korea,0,1,0.2325,0.7675,Group Stage
+Canada,Switzerland,2,1,0.5773,0.4227,Group Stage
+Bosnia-Herzegovina,Qatar,2,1,0.6109,0.3891,Group Stage
+Morocco,Haiti,1,0,0.855,0.145,Group Stage
+Tunisia,Netherlands,0,2,0.1164,0.8836,Group Stage
+Japan,Sweden,2,0,0.8366,0.1634,Group Stage
+Ecuador,Germany,1,2,0.3779,0.6221,Group Stage
+United States,Turkey,2,1,0.649,0.351,Group Stage
+Paraguay,Australia,1,2,0.4584,0.5416,Group Stage
+Curaçao,Ivory Coast,0,2,0.2083,0.7917,Group Stage
+Uruguay,Spain,0,1,0.2262,0.7738,Group Stage
+Cape Verde Islands,Saudi Arabia,2,1,0.5023,0.4977,Group Stage
+Norway,France,0,2,0.2288,0.7712,Group Stage
+Egypt,Iran,1,2,0.4064,0.5936,Group Stage
+New Zealand,Belgium,0,1,0.1868,0.8132,Group Stage
+Senegal,Iraq,1,0,0.7469,0.2531,Group Stage
+Congo DR,Uzbekistan,1,2,0.4772,0.5228,Group Stage
+Colombia,Portugal,2,1,0.5687,0.4313,Group Stage
+Panama,England,0,2,0.1523,0.8477,Group Stage
+Algeria,Austria,1,2,0.4538,0.5462,Group Stage
+Jordan,Argentina,0,2,0.068,0.932,Group Stage
+Croatia,Ghana,2,0,0.8222,0.1778,Group Stage
