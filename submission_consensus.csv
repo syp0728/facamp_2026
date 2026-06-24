@@ -1,0 +1,73 @@
+team1,team2,team1_score,team2_score,team1_prob,team2_prob,type
+South Korea,Czech Republic,1,0,0.6835,0.3165,group
+Mexico,South Africa,1,0,0.9024,0.0976,group
+Canada,Bosnia and Herzegovina,2,0,0.9186,0.0814,group
+United States,Paraguay,1,1,0.5,0.5,group
+Qatar,Switzerland,0,1,0.141,0.859,group
+Brazil,Morocco,1,0,0.72,0.28,group
+Haiti,Scotland,1,2,0.2727,0.7273,group
+Australia,Turkey,1,0,0.473,0.527,group
+Germany,Cura챌ao,2,0,0.9663,0.0337,group
+Ivory Coast,Ecuador,0,1,0.3562,0.6438,group
+Netherlands,Japan,1,2,0.4308,0.5692,group
+Sweden,Tunisia,1,2,0.4474,0.5526,group
+Belgium,Egypt,1,0,0.7973,0.2027,group
+Iran,New Zealand,2,1,0.8219,0.1781,group
+Spain,Cape Verde,1,0,0.9444,0.0556,group
+Saudi Arabia,Uruguay,0,1,0.1266,0.8734,group
+Argentina,Algeria,1,0,0.8026,0.1974,group
+Austria,Jordan,2,1,0.7571,0.2429,group
+France,Senegal,2,0,0.7882,0.2118,group
+Iraq,Norway,0,1,0.3291,0.6709,group
+Portugal,DR Congo,2,0,0.8953,0.1047,group
+Uzbekistan,Colombia,1,2,0.2857,0.7143,group
+England,Croatia,2,1,0.6479,0.3521,group
+Ghana,Panama,1,2,0.3514,0.6486,group
+Czech Republic,South Africa,1,0,0.7037,0.2963,group
+Mexico,South Korea,1,0,0.7465,0.2535,group
+Switzerland,Bosnia and Herzegovina,1,0,0.8941,0.1059,group
+Canada,Qatar,2,0,0.9186,0.0814,group
+Turkey,Paraguay,2,1,0.5395,0.4605,group
+United States,Australia,2,1,0.6351,0.3649,group
+Scotland,Morocco,1,2,0.3425,0.6575,group
+Brazil,Haiti,3,0,0.931,0.069,group
+Germany,Ivory Coast,1,0,0.8608,0.1392,group
+Ecuador,Cura챌ao,2,0,0.9677,0.0323,group
+Netherlands,Sweden,3,0,0.75,0.25,group
+Tunisia,Japan,1,2,0.2899,0.7101,group
+Belgium,Iran,1,0,0.7703,0.2297,group
+New Zealand,Egypt,1,2,0.3235,0.6765,group
+Spain,Saudi Arabia,1,0,0.9659,0.0341,group
+Uruguay,Cape Verde,2,0,0.8941,0.1059,group
+Jordan,Algeria,1,2,0.2683,0.7317,group
+Argentina,Austria,1,0,0.8554,0.1446,group
+Norway,Senegal,2,1,0.5135,0.4865,group
+France,Iraq,3,0,0.908,0.092,group
+Portugal,Uzbekistan,1,0,0.7722,0.2278,group
+Colombia,DR Congo,2,0,0.8488,0.1512,group
+England,Ghana,1,0,0.9136,0.0864,group
+Panama,Croatia,1,0,0.4133,0.5867,group
+Scotland,Brazil,0,1,0.2051,0.7949,group
+Mexico,Czech Republic,2,1,0.7465,0.2535,group
+South Africa,South Korea,1,2,0.2083,0.7917,group
+Canada,Switzerland,2,1,0.5441,0.4559,group
+Bosnia and Herzegovina,Qatar,2,1,0.6447,0.3553,group
+Morocco,Haiti,2,0,0.9398,0.0602,group
+Tunisia,Netherlands,1,0,0.3421,0.6579,group
+Japan,Sweden,2,1,0.8023,0.1977,group
+Ecuador,Germany,0,1,0.3636,0.6364,group
+United States,Turkey,2,1,0.5797,0.4203,group
+Paraguay,Australia,2,1,0.5507,0.4493,group
+Cura챌ao,Ivory Coast,0,1,0.1467,0.8533,group
+Uruguay,Spain,0,1,0.3188,0.6812,group
+Cape Verde,Saudi Arabia,0,2,0.5316,0.4684,group
+Norway,France,1,2,0.28,0.72,group
+Egypt,Iran,1,2,0.4342,0.5658,group
+New Zealand,Belgium,1,2,0.2027,0.7973,group
+Senegal,Iraq,2,1,0.8101,0.1899,group
+DR Congo,Uzbekistan,1,2,0.4571,0.5429,group
+Colombia,Portugal,2,1,0.5256,0.4744,group
+Panama,England,0,1,0.2625,0.7375,group
+Algeria,Austria,1,0,0.6081,0.3919,group
+Jordan,Argentina,0,3,0.0316,0.9684,group
+Croatia,Ghana,1,0,0.8765,0.1235,group
